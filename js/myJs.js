@@ -3,7 +3,7 @@ const textConfig = {
   text2: "Anh Muốn Hỏi Em Một Câu Hỏi <3",
   text3: "Em Có Yêu Anh Không ._.",
   text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm vợ anh rùi đó nha :v",
-  text5: "Mơ Đi Ông Già???",
+  text5: "Mơ Đi Ông Già :p",
   text6: "Tất Nhiên Là Có rùiii<3",
   text7: "Lí do em yêu anh đi :vvvv",
   text8: "Gửi cho anh <3",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://cuongnobro.github.io/Baby/";
+            window.location = "https://conganxa.github.io/heart/";
           },
         });
       }
